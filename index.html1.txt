@@ -1,1 +1,2 @@
 const backendURL = "https://nova-backend.onrender.com/chat";
+
